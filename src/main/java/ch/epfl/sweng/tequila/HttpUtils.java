@@ -12,7 +12,7 @@ import java.net.URLEncoder;
 import java.util.Scanner;
 
 /**
- * Utilities for to HTTP requests.
+ * Utilities for HTTP requests.
  *
  * @author Solal Pirelli
  */
